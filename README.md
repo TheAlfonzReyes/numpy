@@ -1,2 +1,2 @@
 # numpy
-Ejercicios de numpy
+Mis colabs con notas de numpy
